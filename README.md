@@ -1,7 +1,8 @@
 # Netrobase
 ![netrobase](https://github.com/michealfortunatus/Netrobase/assets/103397083/b63d8958-5fe2-4e18-a42f-a3ac907211aa)
 
-# IN progress
+# IN PROGRESS
+
 
 ## About
 NetroBase, a cutting-edge web development and software agency at the forefront of technological innovation. With our expertise in blockchain technology, we empower businesses to thrive in the digital era by providing tailored solutions that combine the power of web development and blockchain integration.
